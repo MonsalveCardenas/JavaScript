@@ -15,7 +15,7 @@
 - ps Lista procesos activos
 - kill Finaliza procesos
 
-![texto alt](img\basicos.png)
+![texto alt](img/basicos.png)
 
 ### Comandos intermedios
 
@@ -35,7 +35,7 @@
 - tar Comprimir/Descomprimir
 - zip / unzip Comprimir / Descomprimir
 
-![texto alt](img\basicos.png)
+![texto alt](img/basicos.png)
 
 ### Comandos Avanzados
 
@@ -48,4 +48,4 @@
 - scp Transferir archivos scp archivo.txt usuario@192.168.1.10:/home/
 - ssh Conexión remota a servidor ssh usuario@ip_servidor
 
-![texto alt](img\Avanzado.png)
+![texto alt](img/Avanzado.png)
